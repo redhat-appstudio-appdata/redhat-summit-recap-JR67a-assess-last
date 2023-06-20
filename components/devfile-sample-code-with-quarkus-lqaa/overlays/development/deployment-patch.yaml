@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/gmccarth-tenant/redhat-summit-recap/devfile-sample-code-with-quarkus-lqaa@sha256:ceb9ae2b252544ca4edacf554ad146da1c4e4a6bcf414f2f300c5613e0009563
+      - image: quay.io/redhat-user-workloads/gmccarth-tenant/redhat-summit-recap/devfile-sample-code-with-quarkus-lqaa@sha256:8196820c0be3ee5c22692d957b8e74596ab4078dee2d0c61fb8b6ed9dcde1c4d
         name: my-java-quarkus
         resources: {}
 status: {}
