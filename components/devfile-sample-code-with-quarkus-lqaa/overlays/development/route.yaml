@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-code-with-quarkus-lqaa
     app.kubernetes.io/part-of: redhat-summit-recap
-  name: devfile-sample-code-with-cw38
+  name: devfile-sample-code-with-rkqp
 spec:
   path: /
   port:
