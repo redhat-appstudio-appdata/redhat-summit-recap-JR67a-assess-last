@@ -28,7 +28,7 @@ spec:
       - env:
         - name: SUMMIT_YEAR
           value: "2023"
-        image: quay.io/redhat-user-workloads/gmccarth-tenant/redhat-summit-recap/devfile-sample-code-with-quarkus-lqaa@sha256:00d65aaac0c226f258504e5cbb2df913438b24631f16de5d446808d7d7a2faa9
+        image: quay.io/redhat-user-workloads/gmccarth-tenant/redhat-summit-recap/devfile-sample-code-with-quarkus-lqaa@sha256:27e4ea660fa26191bba67f9ab3c727986b9c2af4d3d44d4f7ebfb6c860d6228b
         name: my-java-quarkus
         ports:
         - containerPort: 8081
